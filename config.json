@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusteruelete",
+        "uuid": 3991060,
+        "checksum": "fs5n4t"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
